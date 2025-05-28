@@ -17,3 +17,12 @@
 ↑ / | = inheritance/implementation direction
 [version] = Introduced in Java version
 ````
+
+# Collection (I)
+### base methods of collection
+
+- add(Object c);
+- addAll(Collection c);
+
+# list(I)
+### by default list interaface also contain some methods
